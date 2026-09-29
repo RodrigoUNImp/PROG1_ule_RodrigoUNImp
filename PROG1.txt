@@ -8,3 +8,6 @@
 8. variable - https://dle.rae.es/variable
 9. función - https://dle.rae.es/funci%C3%B3n
 10. red - https://dle.rae.es/red
+11. compilador - http://dle.rae.es/?id=A1b2C3d
+12. servidor - http://dle.rae.es/?id=E5f6G7h
+13. terminal - http://dle.rae.es/?id=I9j0K1l
