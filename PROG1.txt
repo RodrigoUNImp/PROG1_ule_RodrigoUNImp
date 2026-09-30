@@ -11,3 +11,5 @@
 11. compilador - http://dle.rae.es/?id=A1b2C3d
 12. servidor - http://dle.rae.es/?id=E5f6G7h
 13. terminal - http://dle.rae.es/?id=I9j0K1l
+14. mierda 
+15. ejemplo
