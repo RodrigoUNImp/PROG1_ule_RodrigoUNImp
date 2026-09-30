@@ -11,3 +11,6 @@
 11. compilador - http://dle.rae.es/?id=A1b2C3d
 12. servidor - http://dle.rae.es/?id=E5f6G7h
 13. terminal - http://dle.rae.es/?id=I9j0K1l
+
+Ey Rodrigo que aproveche la cena 
+Ahora tienes que ejecutar git pull en la terminal para que se te actualice en el repo local y poder subir archivos desde tu escritorio (te lo digo por si no lo sabes porque a mi me dio error y tuve que preguntar a chat gpt)
